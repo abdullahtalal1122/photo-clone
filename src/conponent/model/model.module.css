@@ -1,0 +1,10 @@
+.SmallImgContainer{
+    display: flex;
+    position: absolute;
+    bottom:20px;
+    left:50%
+}
+
+.activeImage {
+    width: 120px !important;
+}
